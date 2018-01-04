@@ -25,5 +25,4 @@ Please follow the following steps :
 
 A directory chooser should pop-up. Select a directory, and have fun!
 
-There is a set of sample images (which can be selected via the GUI) in : JUnit->testImages
-Please only mark ImageFileTest and ManagerTest for the JUnit tests.
+Please feel free to run the Unit Tests!
