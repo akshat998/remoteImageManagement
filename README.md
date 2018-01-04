@@ -27,7 +27,3 @@ A directory chooser should pop-up. Select a directory, and have fun!
 
 There is a set of sample images (which can be selected via the GUI) in : JUnit->testImages
 Please only mark ImageFileTest and ManagerTest for the JUnit tests.
-
-The independent tags is under "Edit Tags". The selected tags will be permanently deleted with the Delete button.
-To add a tag independently, type the new tag in the TextField and press the "+" button.
-Selected tags (left column) will be added/removed from selected images(right column).
